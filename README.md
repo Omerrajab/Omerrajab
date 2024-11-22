@@ -50,7 +50,7 @@
 
 ## 📫 Let's Connect!
 - ✉️ [Email Me](mailto:muwahidomer@gmail.com)  
-- 💼 [LinkedIn]([https://linkedin.com/in/omer-rajab](https://www.linkedin.com/in/omer-rajab-496968104/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/omer-rajab-496968104/)
 - 🌐 [Portfolio](https://Omerrajab.github.io)  
 
 ---
